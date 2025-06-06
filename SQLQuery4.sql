@@ -1,6 +1,3 @@
-USE PatientHealthDB;
-GO
-
 BEGIN TRANSACTION;
 
 BEGIN TRY
